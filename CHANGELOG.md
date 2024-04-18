@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.35.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.34.0...1.35.0) (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* **workflow:** update file ([9c44075](https://github.com/alexsandroferreira/base-node-ts/commit/9c44075a2c6d5a2e78a7742030cbb0a1013fc31f))
+
 ## 1.34.0 (2024-04-18)
 
 
