@@ -1,4 +1,13 @@
+# Changelog
 
+## 1.34.0 (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* inital project ([eeed870](https://github.com/alexsandroferreira/base-node-ts/commit/eeed8703d035024e33ac4d041a41b8bc34b0a2c8))
+* **README:** update file ([069d1fb](https://github.com/alexsandroferreira/base-node-ts/commit/069d1fb9f5f2700b06caed385dda8aecceeb0cf4))
+* update file ([40cca06](https://github.com/alexsandroferreira/base-node-ts/commit/40cca062ade57a124e7b39a2594a819b6aecad47))
 
 # [1.33.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.32.2...1.33.0) (2024-04-17)
 
@@ -7,7 +16,7 @@
 
 * add GITHUB_TOKEN ([23a02b4](https://github.com/alexsandroferreira/base-node-ts/commit/23a02b4e4fb85010eaaa5fc8ef30c742bec72ee7))
 
-# Changelog
+
 
 ### [1.33.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.32.2...1.33.0) (2024-04-17)
 
