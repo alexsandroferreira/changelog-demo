@@ -2,6 +2,6 @@
 import { FastifyRequest, FastifyReply } from 'fastify'
 export function verifyUserRole() {
   return async (req: FastifyRequest, reply: FastifyReply) => {
-    console.log('rule example')
+    console.log('base role verified')
   }
 }
