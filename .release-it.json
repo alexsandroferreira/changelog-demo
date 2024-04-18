@@ -1,9 +1,6 @@
  {
     "git": {
       "commitMessage": "chore: release v${version}"
-    }, 
-    "hooks": {
-      "after:release": "git checkout dev && git merge release/** && git push"
     },
     "github": {
       "release": true,
