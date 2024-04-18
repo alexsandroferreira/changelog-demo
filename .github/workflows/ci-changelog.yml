@@ -1,4 +1,4 @@
-name: CI/CD
+name: CI
 
 on:
   pull_request:
@@ -6,7 +6,6 @@ on:
       - 'release/**'
     types:
       - opened
-      - closed
 
   push:
     branches:
@@ -14,8 +13,7 @@ on:
       - 'release/**'
 
 jobs:
-  pr-release:
-    if: github.event_name == 'pull_request' && github.event.pull_request.merged == true
+  release:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -28,24 +26,7 @@ jobs:
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+      
       - run: npm run release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  push-release:
-    if: github.ref == 'refs/heads/release/**'
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          node-version: 18
-          cache: 'npm'
-          fetch-depth: 0
-      - run: npm ci
-      - name: git config
-        run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-      - run: npm run release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
