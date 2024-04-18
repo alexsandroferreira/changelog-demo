@@ -1,5 +1,6 @@
 #  Api-config-base Node.js com Fastify e TypeScript
 Este é um projeto base para criar aplicativos Node.js usando Fastify e TypeScript.
+Tornado um tamplate base que tem changelog automatico
 
 ## Tabela de Conteúdos
 
