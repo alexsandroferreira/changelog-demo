@@ -33,7 +33,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   push-release:
-    if: github.event_name == 'push' && github.ref != 'refs/pull/*'
+    if: github.ref == 'refs/heads/release/**'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
