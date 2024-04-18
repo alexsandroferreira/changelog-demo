@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.36.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.34.0...1.36.0) (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* **workflow:** add jobs pr-release and push-release ([3d805f2](https://github.com/alexsandroferreira/base-node-ts/commit/3d805f21c7d1a71b433aa8c0881ba9edc5741e16))
+* **workflow:** add jobs push-release ([0b50c14](https://github.com/alexsandroferreira/base-node-ts/commit/0b50c14eb3a8ae52cfcc73daac1196477648b942))
+* **workflow:** update file ([9c44075](https://github.com/alexsandroferreira/base-node-ts/commit/9c44075a2c6d5a2e78a7742030cbb0a1013fc31f))
+* **workflw:** update file ([30cdc96](https://github.com/alexsandroferreira/base-node-ts/commit/30cdc963c8950b6af32847024f47014f3a89c913))
+
 ## [1.35.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.34.0...1.35.0) (2024-04-18)
 
 
