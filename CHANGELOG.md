@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.36.7](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.5...1.36.7) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* update rule in workflow ([77a25f0](https://github.com/alexsandroferreira/base-node-ts/commit/77a25f05230619279eb15cc86428740a6afaabd2))
+
 ## [1.36.6](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.5...1.36.6) (2024-04-18)
 
 
