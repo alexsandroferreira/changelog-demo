@@ -6,7 +6,6 @@ on:
       - 'release/**'
     types:
       - opened
-      - closed
 
   push:
     branches:
