@@ -1,6 +1,45 @@
 # Changelog
 
-## [1.36.7](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.5...1.36.7) (2024-04-18)
+## [1.39.3](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.2...1.39.3) (2024-04-18)
+
+## [1.36.7](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.2...1.39.3) (2024-04-18)
+
+## [1.39.2](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.1...1.39.2) (2024-04-18)
+
+## [1.39.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.0...1.39.1) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* **middleware:** ajust console.log test ([0d237d3](https://github.com/alexsandroferreira/base-node-ts/commit/0d237d3b883e47f432099c6ceaa9d55c6b882bc4))
+
+## [1.38.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.0...1.39.1) (2024-04-18)
+
+## [1.39.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.38.0...1.39.0) (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* add new meddleware ([eb362c2](https://github.com/alexsandroferreira/base-node-ts/commit/eb362c2c636a185b2e0cef274685ddf783c455de))
+
+
+### Bug Fixes | 🚨
+
+* **middleware:** rename file ([a644766](https://github.com/alexsandroferreira/base-node-ts/commit/a6447662a7e531b56103e6c47e0e74fb7e8fb099))
+
+## [1.38.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.37.0...1.38.0) (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* add meddleware role-test ([78aabf7](https://github.com/alexsandroferreira/base-node-ts/commit/78aabf75385af15237d046e188958cad50881d29))
+
+## [1.37.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.5...1.37.0) (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* add folder https and meddleware example ([58f663f](https://github.com/alexsandroferreira/base-node-ts/commit/58f663fa233d84ebb155b09aa6955aedae8a6726))
 
 
 ### Bug Fixes | 🚨

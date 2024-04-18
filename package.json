@@ -1,6 +1,6 @@
 {
   "name": "base-node-ts",
-  "version": "1.36.7",
+  "version": "1.39.3",
   "description": "",
   "main": "index.js",
   "scripts": {
