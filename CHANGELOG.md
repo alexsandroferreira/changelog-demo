@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.36.2](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.1...1.36.2) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* update file release-it.json ([8487ef3](https://github.com/alexsandroferreira/base-node-ts/commit/8487ef33b2597bb4e90af657d4db99428911fb37))
+
 ## [1.36.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.0...1.36.1) (2024-04-18)
 
 
