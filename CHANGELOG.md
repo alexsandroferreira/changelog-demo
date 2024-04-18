@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.38.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.37.0...1.38.0) (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* add meddleware role-test ([78aabf7](https://github.com/alexsandroferreira/base-node-ts/commit/78aabf75385af15237d046e188958cad50881d29))
+
+## [1.37.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.5...1.37.0) (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* add folder https and meddleware example ([58f663f](https://github.com/alexsandroferreira/base-node-ts/commit/58f663fa233d84ebb155b09aa6955aedae8a6726))
+
+
+### Bug Fixes | 🚨
+
+* update rule in workflow ([77a25f0](https://github.com/alexsandroferreira/base-node-ts/commit/77a25f05230619279eb15cc86428740a6afaabd2))
+
 ## [1.36.6](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.5...1.36.6) (2024-04-18)
 
 
