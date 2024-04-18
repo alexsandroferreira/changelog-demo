@@ -1,4 +1,4 @@
-name: CI/CD
+name: CI
 
 on:
   pull_request:
@@ -6,7 +6,6 @@ on:
       - 'release/**'
     types:
       - opened
-      - closed
 
   push:
     branches:
