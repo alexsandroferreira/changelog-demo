@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.39.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.38.0...1.39.0) (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* add new meddleware ([eb362c2](https://github.com/alexsandroferreira/base-node-ts/commit/eb362c2c636a185b2e0cef274685ddf783c455de))
+
+
+### Bug Fixes | 🚨
+
+* **middleware:** rename file ([a644766](https://github.com/alexsandroferreira/base-node-ts/commit/a6447662a7e531b56103e6c47e0e74fb7e8fb099))
+
 ## [1.38.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.37.0...1.38.0) (2024-04-18)
 
 
