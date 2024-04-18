@@ -1,5 +1,43 @@
 # Changelog
 
+## [1.36.6](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.5...1.36.6) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* update rule in workflow ([77a25f0](https://github.com/alexsandroferreira/base-node-ts/commit/77a25f05230619279eb15cc86428740a6afaabd2))
+
+## [1.36.5](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.4...1.36.5) (2024-04-18)
+
+## [1.36.4](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.3...1.36.4) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* add command in workflow ([d771edf](https://github.com/alexsandroferreira/base-node-ts/commit/d771edf571adb2ba3b943bc053556806b0ce6f5b))
+* remove hooks in release-it ([756adac](https://github.com/alexsandroferreira/base-node-ts/commit/756adac92d02e64d554da8995ad4e33faa242e8c))
+
+## [1.36.3](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.2...1.36.3) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* update release-it ([dc01266](https://github.com/alexsandroferreira/base-node-ts/commit/dc01266c4c9f6ae119e604431729dbe00f015f1b))
+
+## [1.36.2](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.1...1.36.2) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* update file release-it.json ([8487ef3](https://github.com/alexsandroferreira/base-node-ts/commit/8487ef33b2597bb4e90af657d4db99428911fb37))
+
+## [1.36.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.0...1.36.1) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* update file workflow and release-it.json ([700f30f](https://github.com/alexsandroferreira/base-node-ts/commit/700f30ffbbd8994c600fc4080de79f76f4a54fca))
+
 ## [1.36.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.34.0...1.36.0) (2024-04-18)
 
 
