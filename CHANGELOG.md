@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.39.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.0...1.39.1) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* **middleware:** ajust console.log test ([0d237d3](https://github.com/alexsandroferreira/base-node-ts/commit/0d237d3b883e47f432099c6ceaa9d55c6b882bc4))
+
+## [1.38.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.0...1.39.1) (2024-04-18)
+
 ## [1.39.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.38.0...1.39.0) (2024-04-18)
 
 
