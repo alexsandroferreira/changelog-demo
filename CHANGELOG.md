@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.38.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.37.0...1.38.0) (2024-04-18)
+
+
+### Funcionalidades | 🏁
+
+* add meddleware role-test ([78aabf7](https://github.com/alexsandroferreira/base-node-ts/commit/78aabf75385af15237d046e188958cad50881d29))
+
 ## [1.37.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.5...1.37.0) (2024-04-18)
 
 
