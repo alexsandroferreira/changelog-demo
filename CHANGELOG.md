@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.36.4](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.3...1.36.4) (2024-04-18)
+
+
+### Bug Fixes | 🚨
+
+* add command in workflow ([d771edf](https://github.com/alexsandroferreira/base-node-ts/commit/d771edf571adb2ba3b943bc053556806b0ce6f5b))
+* remove hooks in release-it ([756adac](https://github.com/alexsandroferreira/base-node-ts/commit/756adac92d02e64d554da8995ad4e33faa242e8c))
+
 ## [1.36.3](https://github.com/alexsandroferreira/base-node-ts/compare/1.36.2...1.36.3) (2024-04-18)
 
 
