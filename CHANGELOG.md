@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.47.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.46.0...1.47.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* **release-it:** add hook ([2a14300](https://github.com/alexsandroferreira/base-node-ts/commit/2a143004e90a0d8c9103f57267062e79bb68aa1e))
+
 ## [1.46.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.4...1.46.0) (2024-04-19)
 
 
