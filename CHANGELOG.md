@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.45.2](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.1...1.45.2) (2024-04-19)
+
 ## [1.45.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.0...1.45.1) (2024-04-19)
 
 ## [1.45.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.44.0...1.45.0) (2024-04-19)
