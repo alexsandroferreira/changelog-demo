@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.42.3](https://github.com/alexsandroferreira/base-node-ts/compare/1.42.2...1.42.3) (2024-04-19)
+
+
+### Bug Fixes | 🚨
+
+* **workflow:** update file ([fbdab60](https://github.com/alexsandroferreira/base-node-ts/commit/fbdab606ff3a8f69224823f4c1b618ef604b7763))
+
 ## [1.42.2](https://github.com/alexsandroferreira/base-node-ts/compare/1.42.1...1.42.2) (2024-04-19)
 
 ## [1.42.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.42.0...1.42.1) (2024-04-19)
