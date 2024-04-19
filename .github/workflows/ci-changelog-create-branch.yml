@@ -1,21 +1,12 @@
-name: CI
+name: Create Release CI
 
 on:
-  pull_request:
+  create:
     branches:
-      - 'master'
-      - 'release/**'
-    types:
-      - opened
-      - synchronize
-
-  push:
-    branches:
-      - 'master'
       - 'release/**'
 
 jobs:
-  release:
+  create_release:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
