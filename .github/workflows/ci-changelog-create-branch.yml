@@ -5,6 +5,8 @@ on:
     branches:
       - 'release/**'
       - 'hotfix/**'
+    types: 
+      - branch
 
 jobs:
   create_release:
