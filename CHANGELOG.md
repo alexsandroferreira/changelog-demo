@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.40.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.4...1.40.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* add new meddliware jwt ([1ec4c40](https://github.com/alexsandroferreira/base-node-ts/commit/1ec4c403e798cbc99865f875ea0c50adff02d03e))
+* **workflow:** add new files creat-branch, pull-request and rename for push ([0784fea](https://github.com/alexsandroferreira/base-node-ts/commit/0784feae4adfdee14214cea35731c247f9b28d52))
+
 ## [1.39.4](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.2...1.39.4) (2024-04-18)
 
 ## [1.36.7](https://github.com/alexsandroferreira/base-node-ts/compare/1.39.2...1.39.4) (2024-04-18)
