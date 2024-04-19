@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.46.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.4...1.46.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* add ci-push-main ([45b2545](https://github.com/alexsandroferreira/base-node-ts/commit/45b25458e2977756cd1b8e4305634baf0b82ecea))
+
 ## [1.45.5](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.4...1.45.5) (2024-04-19)
 
 ## [1.45.4](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.3...1.45.4) (2024-04-19)
