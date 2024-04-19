@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.44.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.43.0...1.44.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* update file ci-create-branch ([2950a86](https://github.com/alexsandroferreira/base-node-ts/commit/2950a86dd0b6bc4f1d36558633c87687f33d3b5e))
+
 ## [1.43.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.42.3...1.43.0) (2024-04-19)
 
 
