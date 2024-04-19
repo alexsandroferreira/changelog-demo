@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.45.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.0...1.45.1) (2024-04-19)
+
+## [1.45.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.44.0...1.45.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* finished feature test 01 ([57ae983](https://github.com/alexsandroferreira/base-node-ts/commit/57ae983f6fc0a30e49998f4bc06fa0b4d66bb9ee))
+
 ## [1.44.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.43.0...1.44.0) (2024-04-19)
 
 
