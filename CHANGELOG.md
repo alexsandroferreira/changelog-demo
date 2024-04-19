@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.43.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.42.3...1.43.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* finished feature ([bc77823](https://github.com/alexsandroferreira/base-node-ts/commit/bc778236fd1a2294ad39d20e23a8c14fa7964823))
+
 ## [1.42.3](https://github.com/alexsandroferreira/base-node-ts/compare/1.42.2...1.42.3) (2024-04-19)
 
 
