@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.45.4](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.3...1.45.4) (2024-04-19)
+
+
+### Bug Fixes | 🚨
+
+* remove file newfeaturaTes01 ([42f357d](https://github.com/alexsandroferreira/base-node-ts/commit/42f357d03865b2ba129157e7848456396ec590f8))
+
+## [1.45.3](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.2...1.45.3) (2024-04-19)
+
 ## [1.45.2](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.1...1.45.2) (2024-04-19)
 
 ## [1.45.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.0...1.45.1) (2024-04-19)
