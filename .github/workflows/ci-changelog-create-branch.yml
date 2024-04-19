@@ -1,14 +1,12 @@
-name: Push CI
+name: Create Release CI
 
 on:
-  push:
+  create:
     branches:
-      - 'master'
       - 'release/**'
-      - 'hotfix/**'
 
 jobs:
-  push:
+  create_release:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
