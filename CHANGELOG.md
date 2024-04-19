@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.48.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.47.1...1.48.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* add newfeatureTest-main ([77fe4e5](https://github.com/alexsandroferreira/base-node-ts/commit/77fe4e5da960d468cc41e5614a528270158b268c))
+
+
+### Bug Fixes | 🚨
+
+* refactor newfeaturaTest ([e7a7f0f](https://github.com/alexsandroferreira/base-node-ts/commit/e7a7f0f29ede6af76650d8c8615c044fb50e09f2))
+
 ## [1.47.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.47.0...1.47.1) (2024-04-19)
 
 ## [1.47.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.46.0...1.47.0) (2024-04-19)
