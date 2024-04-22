@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.49.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.48.0...1.49.0) (2024-04-22)
+
+
+### Funcionalidades | 🏁
+
+* modified file newfeatureTes-main ([c83debb](https://github.com/alexsandroferreira/base-node-ts/commit/c83debb7533bbac738b7455129ede26c39711ab4))
+
+
+### Bug Fixes | 🚨
+
+* **release:** update file middlewares/verifiy-user-role-index ([8355138](https://github.com/alexsandroferreira/base-node-ts/commit/83551386b6b85813378f30838a45c55090fed187))
+* update file middlewares/verify-jwt-user.ts ([f68f201](https://github.com/alexsandroferreira/base-node-ts/commit/f68f2014c740f89305ac53e5264440846b734161))
+* update file newfeatureTest ([9b2c8fb](https://github.com/alexsandroferreira/base-node-ts/commit/9b2c8fbdd48c37b419e6072fbb40a9ecf4a67be4))
+
 ## [1.48.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.47.1...1.48.0) (2024-04-19)
 
 
