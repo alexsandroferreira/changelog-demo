@@ -1,3 +1,3 @@
 export class NewFeatureTest {
-  featureTes = 'ccc'
+  featureTes = 'ddddd'
 }

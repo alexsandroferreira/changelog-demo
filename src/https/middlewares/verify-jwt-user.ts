@@ -2,6 +2,6 @@
 import { FastifyRequest, FastifyReply } from 'fastify'
 export function verifyUserRole() {
   return async (req: FastifyRequest, reply: FastifyReply) => {
-    console.log('verify jwt')
+    console.log('modified jwt')
   }
 }

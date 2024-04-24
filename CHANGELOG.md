@@ -1,5 +1,49 @@
 # Changelog
 
+## [1.49.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.49.0...1.49.1) (2024-04-24)
+
+## [1.49.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.48.0...1.49.0) (2024-04-22)
+
+
+### Funcionalidades | 🏁
+
+* modified file newfeatureTes-main ([c83debb](https://github.com/alexsandroferreira/base-node-ts/commit/c83debb7533bbac738b7455129ede26c39711ab4))
+
+
+### Bug Fixes | 🚨
+
+* **release:** update file middlewares/verifiy-user-role-index ([8355138](https://github.com/alexsandroferreira/base-node-ts/commit/83551386b6b85813378f30838a45c55090fed187))
+* update file middlewares/verify-jwt-user.ts ([f68f201](https://github.com/alexsandroferreira/base-node-ts/commit/f68f2014c740f89305ac53e5264440846b734161))
+* update file newfeatureTest ([9b2c8fb](https://github.com/alexsandroferreira/base-node-ts/commit/9b2c8fbdd48c37b419e6072fbb40a9ecf4a67be4))
+
+## [1.48.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.47.1...1.48.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* add newfeatureTest-main ([77fe4e5](https://github.com/alexsandroferreira/base-node-ts/commit/77fe4e5da960d468cc41e5614a528270158b268c))
+
+
+### Bug Fixes | 🚨
+
+* refactor newfeaturaTest ([e7a7f0f](https://github.com/alexsandroferreira/base-node-ts/commit/e7a7f0f29ede6af76650d8c8615c044fb50e09f2))
+
+## [1.47.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.47.0...1.47.1) (2024-04-19)
+
+## [1.47.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.46.0...1.47.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* **release-it:** add hook ([2a14300](https://github.com/alexsandroferreira/base-node-ts/commit/2a143004e90a0d8c9103f57267062e79bb68aa1e))
+
+## [1.46.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.4...1.46.0) (2024-04-19)
+
+
+### Funcionalidades | 🏁
+
+* add ci-push-main ([45b2545](https://github.com/alexsandroferreira/base-node-ts/commit/45b25458e2977756cd1b8e4305634baf0b82ecea))
+
 ## [1.45.5](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.4...1.45.5) (2024-04-19)
 
 ## [1.45.4](https://github.com/alexsandroferreira/base-node-ts/compare/1.45.3...1.45.4) (2024-04-19)
