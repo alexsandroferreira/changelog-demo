@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.51.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.51.0...1.51.1) (2024-04-24)
+
+
+### Bug Fixes | 🚨
+
+* remove features task999 and newtest ([97dc356](https://github.com/alexsandroferreira/base-node-ts/commit/97dc3560df22dc1ca27cb9211a3c6e592c16c31c))
+
 ## [1.51.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.50.0...1.51.0) (2024-04-24)
 
 
