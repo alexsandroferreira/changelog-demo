@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.50.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.49.1...1.50.0) (2024-04-24)
+
+
+### Funcionalidades | 🏁
+
+* finished new feature 999 ([67f6e57](https://github.com/alexsandroferreira/base-node-ts/commit/67f6e57acfccd735ca830b690c9d9af6a681cd76))
+
+
+### Bug Fixes | 🚨
+
+* **workflows:** update rule in file ([5819d88](https://github.com/alexsandroferreira/base-node-ts/commit/5819d88cdaaef91844eab39f92f6c2f62cc76628))
+
 ## [1.49.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.49.0...1.49.1) (2024-04-24)
 
 ## [1.49.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.48.0...1.49.0) (2024-04-22)
