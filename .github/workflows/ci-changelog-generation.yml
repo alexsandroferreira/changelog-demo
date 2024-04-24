@@ -1,4 +1,4 @@
-name: Create Release CI
+name: Create Release and Push CI
 
 on:
   create:
