@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.51.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.50.0...1.51.0) (2024-04-24)
+
+
+### Funcionalidades | 🏁
+
+* finished task 1010 ([fa06248](https://github.com/alexsandroferreira/base-node-ts/commit/fa062480149a8eb74b29c441d84cb976d3d056bc))
+* finished task 1111 ([5446397](https://github.com/alexsandroferreira/base-node-ts/commit/54463979130a3cf13d7e6a8ba2f7e50a2cf18b91))
+* finished task 1212 ([33f214f](https://github.com/alexsandroferreira/base-node-ts/commit/33f214f488c44f25559351f2fc47b82d688133be))
+
+
+### Bug Fixes | 🚨
+
+* **releaseit:** remove hooks in file ([123ea2f](https://github.com/alexsandroferreira/base-node-ts/commit/123ea2f60ce99d01ce9d96318261ca7c187b2fe7))
+* **workflow:** finished bugfix ([131f229](https://github.com/alexsandroferreira/base-node-ts/commit/131f229c61b9a2ebc4e5b511338483e0369ab722))
+
 ## [1.50.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.49.1...1.50.0) (2024-04-24)
 
 
