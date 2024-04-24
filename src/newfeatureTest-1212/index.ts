@@ -1,3 +1,3 @@
-export class NewFeatureTest999 {
+export class NewFeatureTest1212 {
   featureTes = '1212'
 }
