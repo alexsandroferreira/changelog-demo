@@ -8,6 +8,11 @@ on:
     types: 
       - branch
 
+  push:
+    branches:
+      - 'release/**'
+      - 'hotfix/**'
+
 jobs:
   create_release:
     runs-on: ubuntu-latest
