@@ -5,12 +5,18 @@
   "main": "index.js",
   "scripts": {
     "start:dev": "tsx watch src/server.ts",
-    "release": "release-it --ci --verbose",
     "handle": "node templates/functions/loadHandlebarsHelpers.js",
     "start": "node build/server.js",
     "build": "tsup src --out-dir build",
     "lint:fix": "eslint --ext .js,.ts src --fix",
-    "prepare": "husky"
+    "prepare": "husky",
+    "release:dry": "release-it --dry-run --no-npm",
+    "release:info": "release-it --release-version",
+    "release:beta:no-npm": "release-it --preRelease=beta --no-npm",
+    "release:beta": "release-it --preRelease=beta",
+    "release:no-npm": "release-it --no-npm",
+    "release:changelog:fix": "node ./bin/injectContributorsList.js",
+    "release": "release-it --ci --verbose"
   },
   "repository": {
     "type": "git",
