@@ -16,7 +16,7 @@
     "release:beta": "release-it --preRelease=beta",
     "release:no-npm": "release-it --no-npm",
     "release:changelog:fix": "node ./bin/injectContributorsList.js",
-    "release": "release-it --ci --verbose"
+    "release": "release-it  --verbose"
   },
   "repository": {
     "type": "git",
