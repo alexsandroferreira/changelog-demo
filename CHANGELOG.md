@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.53.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.52.0...1.53.0) (2024-05-09)
+
+
+### Funcionalidades | 🏁
+
+* add test actions ([b65df0f](https://github.com/alexsandroferreira/base-node-ts/commit/b65df0f82d8c0f7fe72ea3bec68eea76e454b8a5))
+
 ## [1.52.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.51.1...1.52.0) (2024-05-09)
 
 
