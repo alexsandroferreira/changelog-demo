@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.52.0](https://github.com/alexsandroferreira/base-node-ts/compare/1.51.1...1.52.0) (2024-05-09)
+
+
+### Funcionalidades | 🏁
+
+* add lib eslint plugin auto import sort ([3b848b0](https://github.com/alexsandroferreira/base-node-ts/commit/3b848b092b8e55c414f0ae5c542ee4c3749a0cbb))
+* add plugin fastify/cors ([0833ed2](https://github.com/alexsandroferreira/base-node-ts/commit/0833ed2fdc06f76d6be20c89a7af4372cf005621))
+* add plugin swagger and zod ([8398a77](https://github.com/alexsandroferreira/base-node-ts/commit/8398a777fedff9001e258475d270798c0d58fbb5))
+* finished task 1313 ([1ebcff8](https://github.com/alexsandroferreira/base-node-ts/commit/1ebcff84dc7d456c9d9030d170443729ede6269c))
+
+
+### Bug Fixes | 🚨
+
+* rename files ([a0eb9f3](https://github.com/alexsandroferreira/base-node-ts/commit/a0eb9f3e76e57b9d2201cae23958a10314e3894e))
+
 ## [1.51.1](https://github.com/alexsandroferreira/base-node-ts/compare/1.51.0...1.51.1) (2024-04-24)
 
 
